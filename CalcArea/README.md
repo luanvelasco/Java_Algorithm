@@ -6,4 +6,4 @@ A 1-interesting polygon is just a square with a side of length 1. An n-interesti
 polygon and appending 1-interesting polygons to its rim, side by side. You can see the 1-, 2-, 3- and 4-interesting polygons in the picture below.
 
 
-<img src="CalcArea/area.png"/>
+https://github.com/luanvelasco/Java_Algorithm/blob/08ac5ea13d2799530d66459bff77b0ed5e266797/CalcArea/area.png?raw=true
